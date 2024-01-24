@@ -1,8 +1,6 @@
 {
   "name": "newproject",
   "version": "1.0.0",
-  "description": "",
-  "main": "./Frontend/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\" "
